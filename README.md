@@ -9,3 +9,6 @@ It is an implementation that using PSO to track the moing obejct in a video
 ## Library Requirement
 1. Java > 7
 2. OpenCV > 2.4.9
+
+## Co-author
+Guang Liu (guang.liu@sydney.edu.au)
