@@ -14,7 +14,8 @@ It is an implementation that using PSO to track the moing obejct in a video
 Guang Liu (guang.liu@sydney.edu.au)
 
 ## Publication
-The paper has been accept by The 23rd International Conference on Neural Information Processing (ICONIP 2016) 
+The paper has been Published by The 23rd International Conference on Neural Information Processing (ICONIP 2016) 
 http://www.iconip2016.org/
 
-I will updated the publicated version soon
+Springer
+http://link.springer.com/chapter/10.1007/978-3-319-46672-9_72
