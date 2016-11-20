@@ -22,4 +22,4 @@ Springer
 http://link.springer.com/chapter/10.1007/978-3-319-46672-9_72
 
 ## Acknowledgement
-* This work is sponsored by USYD http://sydney.edu.au
+This work is sponsored by USYD http://sydney.edu.au
