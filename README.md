@@ -1,17 +1,19 @@
 # Object-Tracking-using-Particle-Swarm-Optimization
 
 ## Overview
-This is my summer project 2014-2015 as well as my research project in 2015 when I doing research assistant in USYD it is done with my partner ***Guang Liu***
-Email: guang.liu@sydney.edu.au under supervisor of DR ***Vera Chung*** Email: vera.chung@sydney.edu.au.
-
-It is an implementation that using PSO to track the moing obejct in a video
+This is a ***A new Weight Adjusted Particle Swarm Optimization System*** for Real-time Multiple Object Tracking
 
 ## Library Requirement
 1. Java > 7
 2. OpenCV > 2.4.9
 
-## Co-author
+## Contacts
 Guang Liu (guang.liu@sydney.edu.au)
+Zhenghao Chen (zhenghao.chen@sydney.edu.au)
+Dr Vear Chung (vera.chung@sydney.edu.au)
+
+## Contribution
+You are welcome to contact any of us if you have any new ideas reagrding to this system, or feel free to have pull request.
 
 ## Publication
 The paper has been Published by The 23rd International Conference on Neural Information Processing (ICONIP 2016) 
