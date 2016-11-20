@@ -8,9 +8,9 @@ This is a ***A new Weight Adjusted Particle Swarm Optimization System*** for Rea
 2. OpenCV > 2.4.9
 
 ## Contacts
-Guang Liu (guang.liu@sydney.edu.au)
-Zhenghao Chen (zhenghao.chen@sydney.edu.au)
-Dr Vear Chung (vera.chung@sydney.edu.au)
+* Guang Liu (guang.liu@sydney.edu.au)
+* Zhenghao Chen (zhenghao.chen@sydney.edu.au)
+* Dr Vear Chung (vera.chung@sydney.edu.au)
 
 ## Contribution
 You are welcome to contact any of us if you have any new ideas reagrding to this system, or feel free to have pull request.
