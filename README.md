@@ -21,5 +21,17 @@ http://www.iconip2016.org/
 Springer
 http://link.springer.com/chapter/10.1007/978-3-319-46672-9_72
 
+## Ciatation 
+please refer this, if you use our work
+
+@inproceedings{liu2016new,
+  title={A New Weight Adjusted Particle Swarm Optimization for Real-Time Multiple Object Tracking},
+  author={Liu, Guang and Chen, Zhenghao and Yeung, Henry Wing Fung and Chung, Yuk Ying and Yeh, Wei-Chang},
+  booktitle={International Conference on Neural Information Processing},
+  pages={643--651},
+  year={2016},
+  organization={Springer}
+}
+
 ## Acknowledgement
 This work is sponsored by USYD http://sydney.edu.au
