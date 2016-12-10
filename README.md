@@ -19,7 +19,7 @@ You are always welcome to contact any of us if you have any new ideas or issues 
 The paper has been Published by The 23rd International Conference on Neural Information Processing (ICONIP 2016) 
 http://www.iconip2016.org/
 
-Springer
+Link:
 http://link.springer.com/chapter/10.1007/978-3-319-46672-9_72
 
 ## Ciatation 
