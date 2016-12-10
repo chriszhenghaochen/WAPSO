@@ -10,6 +10,7 @@ This is a ***A new Weight Adjusted Particle Swarm Optimization System*** for Rea
 ## Team Members
 * Guang Liu (guang.liu@sydney.edu.au)
 * Zhenghao Chen (zhenghao.chen@sydney.edu.au)
+* Henry Yeoung (henry.yeoung@sydney.edu.au) 
 * Dr Vear Chung (vera.chung@sydney.edu.au)
 
 You are always welcome to contact any of us if you have any new ideas or issues reagrding to this system, or feel free to have your pull request.
