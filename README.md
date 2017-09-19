@@ -16,7 +16,7 @@ This is a ***A new Weight Adjusted Particle Swarm Optimization System*** for Rea
 You are always welcome to contact any of us if you have any new ideas or issues reagrding to this system, or feel free to have your pull request.
 
 ## Publication
-***Liu, G., Chen, Z., Yeung, H. W. F., Chung, Y. Y., & Yeh, W. C. (2016, October). A New Weight Adjusted Particle Swarm Optimization for Real-Time Multiple Object Tracking. In International Conference on Neural Information Processing (pp. 643-651). Springer International Publishing.***
+*Liu, G., Chen, Z., Yeung, H. W. F., Chung, Y. Y., & Yeh, W. C. (2016, October). A New Weight Adjusted Particle Swarm Optimization for Real-Time Multiple Object Tracking. In International Conference on Neural Information Processing (pp. 643-651). Springer International Publishing.*
 
 Link:
 http://link.springer.com/chapter/10.1007/978-3-319-46672-9_72
